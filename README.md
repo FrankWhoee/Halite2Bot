@@ -1,5 +1,11 @@
 # Halite2Bot
 
+A link to the document with better formatting:
+
+https://docs.google.com/document/d/1BuP3hApHRqSpKVV33-Ti41BR7cEngdlan9tzvEpBaNY/edit?usp=sharing
+
+Feel free to add or change anything there.
+
 **TL;DR**
 
 Thank you to the development team and everyone on the discord. I had lots of fun. Collision time is really important and rushing is the devil incarnate. For the Halite Team: There is some feedback in this document. See: Feedback. It is coloured red for you to easily find it.
